@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails_12factor', group: :production
-gem 'listen', group: :production
 gem 'pg', group: :production
 gem 'sqlite3', group: :development
 
